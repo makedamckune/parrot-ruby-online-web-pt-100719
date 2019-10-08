@@ -13,7 +13,7 @@ def parrot
   phrase = "Pretty Bird"
 end
 
-def parrot
+def pretty_biird
   puts "Pretty Bird"
   phrase = "Pretty Bird"
 end
