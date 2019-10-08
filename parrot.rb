@@ -8,7 +8,7 @@ def Squawk
 end
 
 
-def pretty_bird
+def parrot
   puts "parrot", "Squawk"
   phrase = "Pretty Bird"
 end
